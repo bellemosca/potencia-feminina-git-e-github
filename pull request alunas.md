@@ -25,4 +25,6 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Esther W Lucena](https://github.com/estherwl)
 
-[Isabelle Mosca](https://github.com/bellemosca) 
+[Maria Isabelle Mosca](https://github.com/bellemosca)
+
+
